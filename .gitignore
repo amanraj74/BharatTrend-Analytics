@@ -1,38 +1,25 @@
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
-ENV/
-
-# Data files (large datasets)
-data/external/*.csv
-!data/external/.gitkeep
-
-# Processed data (can be regenerated)
-data/processed/*.csv
-data/visualizations/*.html
+*.egg-info/
 
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
 
 # OS
 .DS_Store
-Thumbs.db
 
-# Model files
-*.pkl
-*.joblib
-*.h5
+# Only ignore RAW data if files are too large
+# data/raw/*.csv
 
-# Logs
-*.log
-
-# Jupyter
-.ipynb_checkpoints/
+# Keep processed data!
+# data/processed/*.csv  <- REMOVE THIS LINE
