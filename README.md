@@ -641,7 +641,7 @@ Start a discussion: [GitHub Discussions](https://github.com/amanraj47/BharatTren
 
 ### 📧 General Inquiries
 
-Email: anandct.contact@gmail.com
+Email: aerraj50@gmail.com
 
 ### 📚 Documentation
 
