@@ -2,12 +2,12 @@ Metadata-Version: 2.4
 Name: bharattrend
 Version: 1.0.0
 Summary: AI-Powered E-commerce Market Trend Analysis System for Indian Markets
-Home-page: https://github.com/ANANDCT05/BharatTrend_Analysis
+Home-page: https://github.com/amanraj47/BharatTrend_Analysis
 Author: Anand CT
 Author-email: anandct.contact@gmail.com
-Project-URL: Bug Tracker, https://github.com/ANANDCT05/BharatTrend_Analysis/issues
-Project-URL: Documentation, https://github.com/ANANDCT05/BharatTrend_Analysis/blob/main/README.md
-Project-URL: Source Code, https://github.com/ANANDCT05/BharatTrend_Analysis
+Project-URL: Bug Tracker, https://github.com/amanraj47/BharatTrend_Analysis/issues
+Project-URL: Documentation, https://github.com/amanraj47/BharatTrend_Analysis/blob/main/README.md
+Project-URL: Source Code, https://github.com/amanraj47/BharatTrend_Analysis
 Keywords: machine learning,data science,market analysis,trend prediction,e-commerce,india,price optimization,artificial intelligence,sklearn,pandas
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers

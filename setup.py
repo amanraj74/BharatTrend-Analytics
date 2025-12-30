@@ -21,11 +21,11 @@ setup(
     description="AI-Powered E-commerce Market Trend Analysis System for Indian Markets",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ANANDCT05/BharatTrend_Analysis",
+    url="https://github.com/amanraj47/BharatTrend_Analysis",
     project_urls={
-        "Bug Tracker": "https://github.com/ANANDCT05/BharatTrend_Analysis/issues",
-        "Documentation": "https://github.com/ANANDCT05/BharatTrend_Analysis/blob/main/README.md",
-        "Source Code": "https://github.com/ANANDCT05/BharatTrend_Analysis",
+        "Bug Tracker": "https://github.com/amanraj47/BharatTrend_Analysis/issues",
+        "Documentation": "https://github.com/amanraj47/BharatTrend_Analysis/blob/main/README.md",
+        "Source Code": "https://github.com/amanraj47/BharatTrend_Analysis",
     },
     packages=find_packages(exclude=["tests*", "notebooks*", "docs*"]),
     classifiers=[

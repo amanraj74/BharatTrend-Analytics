@@ -135,7 +135,7 @@ Traditional market analysis tools cost thousands of rupees monthly and remain in
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ANANDCT05/BharatTrend.git
+git clone https://github.com/amanraj47/BharatTrend.git
 cd BharatTrend
 
 # 2. Create virtual environment and install dependencies
@@ -507,7 +507,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/ANANDCT05/BharatTrend.git
+   git fork https://github.com/amanraj47/BharatTrend.git
    ```
 
 2. **Create Feature Branch**
@@ -579,7 +579,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Anand CT
+Copyright (c) 2025 AMAN JAISWAL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -602,6 +602,11 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Special thanks to:
 
+- Dr. Niranjan Deshpande (Professor)
+- AI4Bharat team for IndicBERT
+- IIT Ropar Minor in AI Program
+- Open source community
+
 - **Flipkart & Amazon** for providing accessible e-commerce data
 - **Streamlit Team** for the amazing web framework
 - **Scikit-learn Contributors** for robust ML library
@@ -614,13 +619,13 @@ Special thanks to:
 
 ## 👨‍💻 Author
 
-**Anand CT**
+**Aman Jaiswal**
 
-- 📧 Email: anandct.contact@gmail.com
-- 🌐 GitHub: [@ANANDCT05](https://github.com/ANANDCT05)
-- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/your-profile)
-- 🎓 Institution: [Your Institution Name]
-- 🌍 Location: Jamshedpur, Jharkhand, India
+- 📧 Email: aerraj50@gmail.com
+- 🌐 GitHub: [@amanraj47](https://github.com/amanraj47)
+- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/aman-jaiswal-05b962212/)
+- 🎓 Institution: [Ranchi University]
+- 🌍 Location: Ranchi, Jharkhand, India
 
 ---
 
@@ -628,11 +633,11 @@ Special thanks to:
 
 ### 🐛 Found a Bug?
 
-Open an issue: [GitHub Issues](https://github.com/ANANDCT05/BharatTrend/issues)
+Open an issue: [GitHub Issues](https://github.com/amanraj47/BharatTrend/issues)
 
 ### 💡 Have a Suggestion?
 
-Start a discussion: [GitHub Discussions](https://github.com/ANANDCT05/BharatTrend/discussions)
+Start a discussion: [GitHub Discussions](https://github.com/amanraj47/BharatTrend/discussions)
 
 ### 📧 General Inquiries
 
@@ -640,7 +645,7 @@ Email: anandct.contact@gmail.com
 
 ### 📚 Documentation
 
-Full documentation: [View Docs](https://github.com/ANANDCT05/BharatTrend/wiki)
+Full documentation: [View Docs](https://github.com/amanraj74/BharatTrend/wiki)
 
 ---
 
@@ -668,10 +673,10 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 
 ## 📊 Project Statistics
 
-![GitHub Stars](https://img.shields.io/github/stars/ANANDCT05/BharatTrend?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/ANANDCT05/BharatTrend?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/ANANDCT05/BharatTrend)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ANANDCT05/BharatTrend)
+![GitHub Stars](https://img.shields.io/github/stars/amanraj47/BharatTrend?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/amanraj47/BharatTrend?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/amanraj47/BharatTrend)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/amanraj47/BharatTrend)
 
 ---
 
