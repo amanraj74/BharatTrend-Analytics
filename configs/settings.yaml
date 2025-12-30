@@ -1,0 +1,40 @@
+# BharatTrend Configuration Settings
+
+project:
+  name: BharatTrend
+  version: 1.0.0
+  description: AI-Powered Market Trend Analysis
+  author: Anand CT
+
+data:
+  sources:
+    flipkart: data/external/flipkart_com-ecommerce_sample.csv
+    amazon: data/external/amazon.csv
+    orders: data/external/List-of-Orders.csv
+    order_details: data/external/Order-Details.csv
+    targets: data/external/Sales-target.csv
+  
+  output:
+    processed: data/processed
+    visualizations: data/visualizations
+    models: models
+
+logging:
+  level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  file: logs/bharattrend.log
+
+models:
+  random_forest:
+    n_estimators: 100
+    random_state: 42
+    max_depth: null
+  
+  kmeans:
+    n_clusters: 5
+    random_state: 42
+    
+api:
+  host: 127.0.0.1
+  port: 8000
+  reload: true

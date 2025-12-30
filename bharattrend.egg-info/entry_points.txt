@@ -1,0 +1,4 @@
+[console_scripts]
+bharattrend-dashboard = src.run_dashboard:main
+bharattrend-process = src.data_processing:main
+bharattrend-train = src.ml_models:main

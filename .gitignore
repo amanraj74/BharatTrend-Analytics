@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (large datasets)
+data/external/*.csv
+!data/external/.gitkeep
+
+# Processed data (can be regenerated)
+data/processed/*.csv
+data/visualizations/*.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
