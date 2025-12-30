@@ -8,7 +8,7 @@
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
 
 📄 **Project Report**: [View Full Report](https://drive.google.com/your-report-link)  
-📊 **Live Dashboard**: [Launch Application](https://your-streamlit-app.streamlit.app/)  
+📊 **Live Dashboard**: [Launch Application](https://bharattrend-analytics.streamlit.app/)  
 🎥 **Video Demo**: [Watch Presentation](https://drive.google.com/your-demo-link)
 
 ---
