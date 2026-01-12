@@ -10,6 +10,7 @@
 📄 **Project Report**: [View Report](https://docs.google.com/document/d/1W-V6FHDDJDkEYffSF3KnJpW8awEhBnhDRvejT919R6Q/edit?usp=sharing)
 
 📄 **Project Report In Details**: [View Full Report](https://docs.google.com/document/d/1I1MXHCLL5F2Bxlbkz5lM_ZfsDuy5lTAJ6Crr_hvB4dc/edit?usp=sharing)    
+📊 **Presentation**: [Launch Presentation](https://docs.google.com/presentation/d/10pq1zJuraUploCcKJXSfrGCuogT3Z_GhZcEYOxeLE_w/edit?usp=sharing)  
 📊 **Live Dashboard**: [Launch Application](https://bharattrend-analytics.streamlit.app/)  
 🎥 **Video Demo**: [Watch Presentation](https://drive.google.com/your-demo-link)
 
