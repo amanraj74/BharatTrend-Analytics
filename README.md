@@ -647,7 +647,7 @@ Email: aerraj50@gmail.com
 
 ### 📚 Documentation
 
-Full documentation: [View Docs](https://github.com/amanraj74/BharatTrend/wiki)
+Full documentation: [View Docs](https://docs.google.com/document/d/1I1MXHCLL5F2Bxlbkz5lM_ZfsDuy5lTAJ6Crr_hvB4dc/edit?usp=sharing)
 
 ---
 
